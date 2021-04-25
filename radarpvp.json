@@ -1,0 +1,40 @@
+{
+  "constructsList":[
+    {
+      "constructId":"3054444",
+      "distance":895.3758778016595,
+      "inIdentifyRange":true,
+      "info":{},
+      "isIdentified":false,
+      "myThreatStateToTarget":0,
+      "name":"Hexacomb",
+      "size":"XS",
+      "targetThreatState":0
+    }
+  ],
+  "elementId":"946140429",
+  "helperId":"radar",
+  "name":"Space Radar s [105]",
+  "properties":{
+    "broken":false,
+    "errorMessage":"",
+    "identifiedConstructs":[],
+    "identifyConstructs":{},
+    "radarStatus":1,
+    "selectedConstruct":"0",
+    "worksInEnvironment":true
+  },
+  "staticProperties":{
+    "maxIdentifiedTargets":4,
+    "ranges":{
+      "identify128m":97500,
+      "identify16m":97500,
+      "identify32m":97500,
+      "identify64m":97500,
+      "scan":400000
+    },
+    "worksInAtmosphere":false,
+    "worksInSpace":true
+  },
+  "type":"radar"
+}
